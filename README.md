@@ -13,4 +13,4 @@ This project is currently being updated as part of my data analytics portfolio.
 
 **Project Status**
 
-1. Structural Data Cleaning- Completed
+1. Data Cleaning in Progress
