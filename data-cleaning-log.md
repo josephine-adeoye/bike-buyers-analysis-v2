@@ -22,6 +22,6 @@ basic formatting consistency
 
 No major structural issues were found after cleaning.
 
-Current Project Stage
+**Current Project Stage**
 
 Data cleaning in progress → Next step: Handling missing values
