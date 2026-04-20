@@ -13,7 +13,4 @@ This project is currently being updated as part of my data analytics portfolio.
 
 **Project Status**
 
-This is an updated version of my Bike Buyers analysis project.
-The project is being improved step-by-step and new updates will be pushed as each stage is completed.
-
-1. Structural Data Cleaning-Completed
+1. Structural Data Cleaning- Completed
