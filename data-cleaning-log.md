@@ -1,4 +1,4 @@
-**DATA CLEANING LOG**
+# **DATA CLEANING LOG**
 
 This file documents the steps taken to prepare the dataset before analysis.
 
