@@ -7,7 +7,7 @@ This file documents the steps taken to prepare the dataset before analysis.
 The dataset is a customer dataset, not a transaction dataset.
 Each row represents a unique customer record and includes demographic, lifestyle and socioeconomic attributes.
 
-**1. STRUCTURAL CLEANING**
+## 1. STRUCTURAL CLEANING
 
 Irrelevant Columns:
 
@@ -32,7 +32,7 @@ Assumption:
 Duplicates were likely caused by data entry or system duplication and removing them does not remove unique customer information.
 
 
-**2. DATA QUALITY CHECKS**
+## 2. DATA QUALITY CHECKS
 
 Manual validation was performed using sorting and filtering.
 
@@ -53,7 +53,7 @@ No obvious incorrect values were observed.
 No hidden characters detected during filtering and sorting checks.
 
 
-**3. OUTLIERS CHECKS**
+## 3. OUTLIERS CHECKS
 
 Outlier checks were performed on key numeric variables:
 
