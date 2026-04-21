@@ -2,7 +2,7 @@
 
 This file documents the steps taken to prepare the dataset before analysis.
 
-**DATASET OVERVIEW**
+## DATASET OVERVIEW
 
 The dataset is a customer dataset, not a transaction dataset.
 Each row represents a unique customer record and includes demographic, lifestyle and socioeconomic attributes.
