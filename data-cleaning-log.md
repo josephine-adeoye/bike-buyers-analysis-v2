@@ -1,27 +1,78 @@
 **DATA CLEANING LOG**
 
-This document records the cleaning steps carried out before analysis.
+This file documents the steps taken to prepare the dataset before analysis.
 
-**Tasks Performed**
+**DATASET OVERVIEW**
 
-1. Checked for Irrelevant columns
+The dataset is a customer dataset, not a transaction dataset.
+Each row represents a unique customer record and includes demographic, lifestyle and socioeconomic attributes.
 
-There were no irrelevant columns, so all columns were maintained.
+**1. STRUCTURAL CLEANING**
 
-2. Checked for Duplicate records
+Irrelevant Columns:
 
-Customer ID was treated as a unique identifier.
-Using Excel's Pivot table to identify duplicates and Excel’s Remove Duplicates tool accross all columns, 26 duplicate rows on customer record were found and removed.
+All columns were reviewed and retained because they support the project’s analysis goals.
 
-3. Checked for structural errors
+Duplicate Records:
 
-Reviewed the dataset for:
-column naming issues
-unexpected blank rows/columns
-basic formatting consistency
+CustomerID was assumed to be a unique identifier.
 
-No major structural issues were found after cleaning.
+Using a Pivot Table count check:
 
-**Current Project Stage**
+a) 26 duplicate records were identified.
 
-Data cleaning in progress → Next step: Handling missing values
+b) Random samples were manually inspected.
+
+c) Duplicates were confirmed to be exact full-row duplicates.
+
+**Action taken:**
+All duplicate rows were removed.
+
+Assumption:
+Duplicates were likely caused by data entry or system duplication and removing them does not remove unique customer information.
+
+
+**2. DATA QUALITY CHECKS**
+
+Manual validation was performed using sorting and filtering.
+
+**Missing Values:**
+
+No missing values were found across the dataset.
+
+**Inconsistent Formatting:**
+
+No inconsistent formats detected in numeric or categorical columns.
+
+**Incorrect Data Inputs:**
+
+No obvious incorrect values were observed.
+
+**Hidden / Extra Characters:**
+
+No hidden characters detected during filtering and sorting checks.
+
+
+**3. OUTLIERS CHECKS**
+
+Outlier checks were performed on key numeric variables:
+
+a) Age
+
+b) Monthly Income
+
+c) Number of Children
+
+d) Number of Cars Owned
+
+e) Commute Distance
+
+Values were sorted and reviewed from smallest to largest.
+
+**Result:**
+
+All values fall within realistic ranges. No extreme outliers were identified.
+
+
+Cleaning Outcome
+The dataset is considered clean and ready for exploratory data analysis (EDA).
