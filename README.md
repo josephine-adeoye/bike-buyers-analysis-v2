@@ -13,5 +13,5 @@ This project is currently being updated as part of my data analytics portfolio.
 
 **Project Status**
 
-1. Data Cleaning - Completed
-2. Exploratory Data Analysis (EDA) - In Progress
+1. Exploratory Data Analysis (EDA)- Completed
+2. Analysis- In Progress
