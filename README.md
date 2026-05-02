@@ -1,17 +1,21 @@
-# **Bike Buyers Analysis — Version 2 (Work in Progress)**
+# **1. Introduction**
 
-This repository contains the revised and expanded version of my original Bike Buyers Excel Analysis project.
+This project explores customer data from a bike retail company to understand who is most likely to purchase bikes and where growth opportunities exist.
 
-The goal of this update is to improve the project by strengthening:
+The goal is to use data to move from guessing customers to clearly identifying the most promising customer segments for targeted marketing and expansion.
 
-1. Problem definition
-2. Data cleaning and documentation
-3. Exploratory analysis
-4. Business-focused insights and recommendations
+This project follows a full analytics workflow:
 
-This project is currently being updated as part of my data analytics portfolio.
+Data Cleaning → Exploratory Data Analysis → Deeper Analysis → Insights → Recommendations.
 
-**Project Status**
+# **2. Problem Statement**
 
-1. Exploratory Data Analysis (EDA)- Completed
-2. Analysis- In Progress
+A bike retail company wants to increase sales and expand market share but lacks clarity on:
+
+Who its most valuable customers are
+
+Which regions present the biggest growth opportunities
+
+Which customer segments should be prioritised for marketing
+
+The company needs data-driven insights to identify high-potential customer segments and guide smarter targeting decisions.
