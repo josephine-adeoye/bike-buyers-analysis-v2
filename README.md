@@ -34,7 +34,7 @@ Since no background information was provided with the dataset, the following ass
 - The dataset contains both bike buyers and non-buyers
 - Insights are intended to support marketing and segmentation decisions
 
-  ## 4. Dataset Overview 
+## 4. Dataset Overview 
 The cleaned dataset contains:
 - 1,000 customer records
 - 13 variables
