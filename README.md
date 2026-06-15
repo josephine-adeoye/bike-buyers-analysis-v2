@@ -127,34 +127,34 @@ Deeper Analysis identified two high converting customer profiles and three prior
 ### A. North America is the Largest Market with Highest Growth Potential
 - North America has the largest customer base of 508 but the lowest regional purchase rate of 43%. Yet the Primary Target Profile converts at 63% across 101 customers  and Secondary at 69% with 46 customers, both well above the regional baseline, revealing strong hidden potential beneath a weak average.
 
-#### Recommendation
+  #### Recommendation
 - Targeted marketing should be directed specifically at the Primary and Secondary Target Profiles rather than broad campaigns.
-- Further investigation is needed to understand why over half of North America's 508 customers leave without purchasing bikes. Possible areas to examine are stock availability, pricing and in-store experience.
+- Further investigation is needed to understand why over half of North America's 508 customers leave without purchasing bikes.          Possible areas to examine are stock availability, pricing and in-store experience.
 
 ### B. Europe has Strong Conversion and Notable Room to Grow
-- The Primary Target Profile delivers 83% purchase rate across 50 customers in Europe, a 34% point lift above the 49% regional baseline. Although highly convertible it is currently a smaller market.
+- The Primary Target Profile delivers 83% purchase rate across 50 customers in Europe, a 34% point lift above the 49% regional          baseline. Although highly convertible it is currently a smaller market.
 
-#### Recommendation
+  #### Recommendation
 - Marketing efforts in Europe should be scaled, with focus on the Primary Target Profile
-- Factors driving North America's larger customer base should be investigated to assess whether they can be replicated in Europe to grow its market size.
+- Factors driving North America's larger customer base should be investigated to assess whether they can be replicated in Europe to     grow its market size.
 
 ### C. Primary Target Profile is a Core Segment to Protect and Scale
-- Middle to high income customers aged 30-49, with 0-1 cars and 0-5 mile commutes consistently deliver the strongest purchase rates across all regions.
+- Middle to high income customers aged 30-49, with 0-1 cars and 0-5 mile commutes consistently deliver the strongest purchase rates     across all regions.
 
-#### Recommendation
+  #### Recommendation
 - Marketing campaigns should position bikes as a practical and cost efficient commuting solution for economically active adults.
 - Loyalty programmes can also be introduced to protect and grow repeat purchases within this segment
 
 ### D. Secondary Target Profile has Untapped Acquisition Opportunity
-- Single adults aged 30-49 with low car ownership within 0-5 mile commutes convert at 69% across 46 customers in North America reflecting 26% points above the regional baseline.
+- Single adults aged 30-49 with low car ownership within 0-5 mile commutes convert at 69% across 46 customers in North America          reflecting 26% points above the regional baseline.
 
-#### Recommendation
-- Acquisition campaigns emphasising independence and lifestyle benefits of cycling in North America should be launched and targeted at this profile.
-- A combined campaign strategy covering both primary and secondary profiles simultaneously in North America can also be considered for cost efficiency.
+  #### Recommendation
+- Acquisition campaigns emphasising independence and lifestyle benefits of cycling in North America should be launched and targeted     at this profile.
+- A combined campaign strategy covering both primary and secondary profiles simultaneously in North America can also be considered      for cost efficiency.
 
 ### E.  Pacific Current Performance should be Sustained
-- Pacific has the highest regional baseline at 59% but the smallest customer base of 192 with segment sizes too small for reliable targeted expansion.
+- Pacific has the highest regional baseline at 59% but the smallest customer base of 192 with segment sizes too small for reliable      targeted expansion.
 
-#### Recommendation
-- Current performance should be maintained while channeling focus on organically growing the Pacific customer base, before committing to targeted expansion investment.
+ #### Recommendation
+- Current performance should be maintained while channeling focus on organically growing the Pacific customer base, before committing   to targeted expansion investment.
 
