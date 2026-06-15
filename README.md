@@ -129,7 +129,7 @@ Deeper Analysis identified two high converting customer profiles and three prior
 
   #### Recommendation
 - Targeted marketing should be directed specifically at the Primary and Secondary Target Profiles rather than broad campaigns.
-- Further investigation is needed to understand why over half of North America's 508 customers leave without purchasing bikes.          Possible areas to examine are stock availability, pricing and in-store experience.
+- Further investigation is needed to understand why over half (288) of North America's 508 customers leave without purchasing bikes.          Possible areas to examine are stock availability, pricing and in-store experience.
 
 ### B. Europe has Strong Conversion and Notable Room to Grow
 - The Primary Target Profile delivers 83% purchase rate across 50 customers in Europe, a 34% point lift above the 49% regional          baseline. Although highly convertible it is currently a smaller market.
