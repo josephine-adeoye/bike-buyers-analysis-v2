@@ -90,7 +90,7 @@ These variables showed meaningful patterns but overlap with stronger lifestyle f
 - Education & Occupation
 - Number of Children
 #### C. Weak Drivers
-  These variables showed minimal difference in purchase behaviour. They are unlikely to be useful for targeted marketing. They are unlikely to be useful for targeted marketing.
+  These variables showed minimal difference in purchase behaviour. They are unlikely to be useful for targeted marketing.
 - Gender
 - Home Ownership
 
