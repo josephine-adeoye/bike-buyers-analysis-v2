@@ -38,6 +38,7 @@ Since no background information was provided with the dataset, the following ass
 The cleaned dataset contains:
 - 1,000 customer records
 - 13 variables
+  
 Each row represents a customer and whether they purchased a bike.
 ### Target Variable
 The main variable of interest is Bike Purchase (Yes/No).
