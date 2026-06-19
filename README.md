@@ -1,4 +1,4 @@
-# Bike-Buyers-Analysis-v2
+# Bike Buyers Analysis V2
 
 ## 1. Introduction
 
